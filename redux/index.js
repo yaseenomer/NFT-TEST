@@ -8,7 +8,7 @@ const makeStore = () => configureStore({
     reducer : {
          todo
     },
-    devTools: false
+    devTools: true
 })
    
 
